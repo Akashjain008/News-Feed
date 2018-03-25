@@ -1,0 +1,47 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="panel panel-default">
+                <div class="panel-heading">
+                    <span class="glyphicon glyphicon-list-alt"></span>
+                    <b>News Feeds</b>
+                </div>
+                <div class="panel-body">
+                    <div class="row">
+                        <div class="col-xs-12 pre-scrollable" *ngIf="newsFeeds.length != 0">
+                            <ul class="news-ticker-images">
+                                <li class="news-item thumbnail" *ngFor="let news of newsFeeds.slice().reverse()">
+                                    <div class="caption ">
+                                        <b>{{ news.title }}</b>
+                                    </div>
+                                    <table cellpadding="4">
+                                        <tr>
+                                            <td>
+                                                <img src="{{news.urlToImage}}" width="200" alt="{{news.title}}" onError="this.src='https://www.bartabacmode.com/wp-content/themes/pashmina/images/blank.png';"
+                                                    class="img-responsive center-block" />
+                                            </td>
+                                            <td>
+                                                {{news.description}}
+                                                <a href="{{news.url}}" target="_blank">Read more...</a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                Source:
+                                                <b>{{ news.author }}</b>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-xs-12 pre-scrollable" *ngIf="newsFeeds.length === 0">
+                            <p>No News Found.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="panel-footer"></div>
+            </div>
+        </div>
+    </div>
+</div>

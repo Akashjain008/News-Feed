@@ -1,0 +1,602 @@
+[
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "EU recalls Russia ambassador over spy row",
+        "description": "Leaders agree it was \"highly likely\" that Russia was responsible for a nerve agent attack in Salisbury.",
+        "url": "http://www.bbc.co.uk/news/uk-politics-43489457",
+        "urlToImage": "https://ichef-1.bbci.co.uk/news/1024/branded_news/0EC7/production/_100538730_hi045712877.jpg",
+        "publishedAt": "2018-03-23T10:22:53Z"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "EU adopts guidelines for next Brexit phase",
+        "description": "EU leaders approve guidelines for trade and security talks in another step forward in the process.",
+        "url": "http://www.bbc.co.uk/news/uk-politics-43509309",
+        "urlToImage": "https://ichef-1.bbci.co.uk/news/1024/branded_news/7F3D/production/_100537523_mediaitem100537522.jpg",
+        "publishedAt": "2018-03-23T10:01:15Z"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Next hit by toughest trading for 25 years",
+        "description": "Profits at the retailer fall after a \"challenging year\" when it suffered \"self-inflicted errors\".",
+        "url": "http://www.bbc.co.uk/news/business-43512375",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A193/production/_100536314_clippednext.png",
+        "publishedAt": "2018-03-23T09:03:55Z"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Calculators 'make pupils better at maths'",
+        "description": "Academics found calculators can also help students become better at problem solving.",
+        "url": "http://www.bbc.co.uk/news/education-43500274",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/62AE/production/_100526252_schoolcalcalamy.jpg",
+        "publishedAt": "2018-03-23T08:42:22Z"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Police admit role in blacklisting workers",
+        "description": "The Met Police says officers supplied intelligence to a network that barred construction staff.",
+        "url": "http://www.bbc.co.uk/news/uk-43507728",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/792F/production/_100532013_davesmith.jpg",
+        "publishedAt": "2018-03-23T06:06:19Z"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "'Mummy's not got money'",
+        "description": "The parents in Oldham who struggle to buy food and basic necessities for their children",
+        "url": "http://www.bbc.co.uk/news/uk-43507747",
+        "urlToImage": "https://ichef-1.bbci.co.uk/news/1024/branded_news/11E2F/production/_100536237_p0622946.jpg",
+        "publishedAt": "2018-03-23T05:41:39Z"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Whales in mass stranding on Australia beach",
+        "description": "About 150 animals wash up on a beach south of Perth, prompting a major rescue effort.",
+        "url": "http://www.bbc.co.uk/news/world-australia-43509685",
+        "urlToImage": "https://ichef-1.bbci.co.uk/news/1024/branded_news/17F5F/production/_100534189_whale2.png",
+        "publishedAt": "2018-03-23T05:26:58Z"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "China threatens US tariff retaliation",
+        "description": "China asks US to pull back \"from the brink\" of a trade war as it announces possible tariffs on pork, wine and fruit.",
+        "url": "http://www.bbc.co.uk/news/business-43510802",
+        "urlToImage": "https://ichef-1.bbci.co.uk/news/1024/branded_news/119D9/production/_88735127_pig4.jpg",
+        "publishedAt": "2018-03-23T02:22:05Z"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Four in 10 online GP firms 'not safe'",
+        "description": "Care Quality Commission warns of inappropriate prescribing and failure to carry out checks.",
+        "url": "http://www.bbc.co.uk/news/health-43506780",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5689/production/_98635122_038801518-1.jpg",
+        "publishedAt": "2018-03-23T01:10:47Z"
+    },
+    {
+        "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+        },
+        "author": "BBC News",
+        "title": "Rise in cancers 'caused by weight'",
+        "description": "Excess weight now causes 6.3% of all cancer cases - up from 5.5% in 2011, a study suggests.",
+        "url": "http://www.bbc.co.uk/news/health-43502144",
+        "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p062174x.jpg",
+        "publishedAt": "2018-03-23T00:06:27Z"
+    },
+    {
+        "source": {
+            "id": "cnbc",
+            "name": "CNBC"
+        },
+        "author": "David Spiegel",
+        "title": "Companies are taking action on gun control because politicians won't: CNBC survey",
+        "description": "Business leaders agree that companies have a responsibility, where possible, to take action to mitigate gun violence: CNBC survey.",
+        "url": "https://www.cnbc.com/2018/03/23/companies-acting-on-gun-control-because-government-wont-cnbc-survey.html",
+        "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/03/14/105065279-GettyImages-922192816.1910x1000.jpg",
+        "publishedAt": "2018-03-23T10:06:47Z"
+    },
+    {
+        "source": {
+            "id": "cnbc",
+            "name": "CNBC"
+        },
+        "author": "David Spiegel",
+        "title": "Trump's tariff proposals, trade war will be bad for both US and China: CNBC survey",
+        "description": "President Trump has said a trade war is easy to win, but top corporate brass told a CNBC survey that tariffs are a mistake and a trade war will hurt the economies of both the US and China.",
+        "url": "https://www.cnbc.com/2018/03/23/trumps-tariffs-trade-war-will-be-bad-for-us-and-china-cnbc-survey.html",
+        "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/03/22/105083146-GettyImages-936581776.1910x1000.jpg",
+        "publishedAt": "2018-03-23T09:50:36Z"
+    },
+    {
+        "source": {
+            "id": "cnbc",
+            "name": "CNBC"
+        },
+        "author": "Sam Meredith",
+        "title": "Dow looks headed for a 200-point drop at the open as trade war fears intensify",
+        "description": "U.S. stock index futures pointed to a sharply lower open on Friday morning, after President Trump's intensifying war on Beijing's trade practices.",
+        "url": "https://www.cnbc.com/2018/03/23/us-stock-markets-set-for-a-sharp-fall-at-the-open-amid-trade-war-fears.html",
+        "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/03/22/105084136-GettyImages-935503612.1910x1000.jpg",
+        "publishedAt": "2018-03-23T09:47:17Z"
+    },
+    {
+        "source": {
+            "id": "cnbc",
+            "name": "CNBC"
+        },
+        "author": "Matt Clinch",
+        "title": "Global markets slump as trade tensions escalate",
+        "description": "Stock markets around the world have seen sharp falls, with investors fretting over a potential trade war.",
+        "url": "https://www.cnbc.com/2018/03/23/global-markets-slump-as-trade-tensions-escalate.html",
+        "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2016/06/24/103743428-RTX2I2I3.1910x1000.jpg",
+        "publishedAt": "2018-03-23T09:14:49Z"
+    },
+    {
+        "source": {
+            "id": "cnbc",
+            "name": "CNBC"
+        },
+        "author": "David Reid",
+        "title": "The first non-stop flight between Europe and Australia is ready for takeoff",
+        "description": "This weekend a Boeing 787 will take off from Australia and land in London around 17 hours later.",
+        "url": "https://www.cnbc.com/2018/03/23/qantas-perth-to-london-direct-but-not-worlds-longest-flight.html",
+        "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/03/22/105082368-GettyImages-511643092_1.1910x1000.jpg",
+        "publishedAt": "2018-03-23T06:46:44Z"
+    },
+    {
+        "source": {
+            "id": "cnbc",
+            "name": "CNBC"
+        },
+        "author": "Jacob Pramuk",
+        "title": "Senate averts government shutdown with $1.3 trillion spending bill",
+        "description": "The $1.3 trillion spending legislation now only awaits President Donald Trump's signature.",
+        "url": "https://www.cnbc.com/2018/03/23/spending-bill-senate-averts-government-shutdown-with-passage.html",
+        "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/01/22/104959908-GettyImages-908819122.1910x1000.jpg",
+        "publishedAt": "2018-03-23T04:49:48Z"
+    },
+    {
+        "source": {
+            "id": "cnbc",
+            "name": "CNBC"
+        },
+        "author": "Nyshka Chandran",
+        "title": "China strikes back at up to $60 billion in US tariffs with only with $3 billion of its own",
+        "description": "Chinese President Xi Jinping's administration \"is trying to be very cautious,\" says a former assistant U.S. Trade Representative official.",
+        "url": "https://www.cnbc.com/2018/03/22/trade-war-china-retaliates-with-only-3-billion-in-tariffs.html",
+        "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2013/03/23/100584824-_sites_default_files_images_100584824-us_china_flags.1910x1000.jpg",
+        "publishedAt": "2018-03-23T02:52:07Z"
+    },
+    {
+        "source": {
+            "id": "cnbc",
+            "name": "CNBC"
+        },
+        "author": "Jacob Pramuk",
+        "title": "Trump says John Bolton will replace HR McMaster as national security advisor",
+        "description": "McMaster is the second national security advisor to leave the Trump administration in just over one year.",
+        "url": "https://www.cnbc.com/2018/03/22/hr-mcmaster-will-resign-as-trumps-national-security-advisor-and-will-be-replaced-by-john-bolton-nyt-citing-sources.html",
+        "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/03/16/105070222-GettyImages-696600228.1910x1000.jpg",
+        "publishedAt": "2018-03-22T22:27:18Z"
+    },
+    {
+        "source": {
+            "id": "cnbc",
+            "name": "CNBC"
+        },
+        "author": "Ingrid Angulo",
+        "title": "Dropbox prices IPO at $21 per share",
+        "description": "Dropbox priced its IPO above expectations on Thursday night.",
+        "url": "https://www.cnbc.com/2018/03/22/dropbox-will-price-ipo-at-21-per-share-source-says.html",
+        "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/03/22/105083103-GettyImages-545523520.1910x1000.jpg",
+        "publishedAt": "2018-03-22T20:55:51Z"
+    },
+    {
+        "source": {
+            "id": "cnbc",
+            "name": "CNBC"
+        },
+        "author": "Keris Lahiff",
+        "title": "Billions have been wiped from the tech sector this week. Here's how to protect yourself from more pain",
+        "description": "Tech stocks are at their most expensive in nearly a decade even after a brutal week in which billions were wiped from the sector. There's still some value to investing in the sector, says one trader.",
+        "url": "https://www.cnbc.com/2018/03/22/tech-has-slumped-this-week-how-to-protect-yourself-from-more-pain.html",
+        "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2016/11/16/104112056-GettyImages-98590706.1910x1000.jpg",
+        "publishedAt": "2018-03-22T19:23:59Z"
+    },
+    {
+        "source": {
+            "id": "google-news-in",
+            "name": "Google News (India)"
+        },
+        "author": "BS Web Team",
+        "title": "Sonia Gandhi falls ill in Shimla: Flies to Delhi from Chandigarh; updates",
+        "description": "Senior Congress leader Sonia Gandhi fall ill in Shimla  was rushed to New Delhi. She was in SHimla with her daughter Priyanka Vadra. Sonia Gandhi complained of restlessness. Find updates on Sonia Gandhi health.",
+        "url": "http://www.business-standard.com/article/current-affairs/sonia-gandhi-fell-ill-shimla-rushed-to-delhi-from-chandigarh-top-updates-118032300518_1.html",
+        "urlToImage": "http://bsmedia.business-standard.com/_media/bs/img/article/2018-03/10/full/1520626129-4204.jpg",
+        "publishedAt": "2018-03-23T09:42:43+00:00"
+    },
+    {
+        "source": {
+            "id": "google-news-in",
+            "name": "Google News (India)"
+        },
+        "author": "Express Web Desk",
+        "title": "AAP MLAs’ disqualification plea: Delhi High Court asks EC to review its ‘office for profit’ order",
+        "description": "AAP MLAs' disqualification plea: Striking down the Election Commission's order disqualifying 20 AAP MLAs, the Delhi High Court on Friday quashed the Presidential notification and directed the poll body to hear the case once again.",
+        "url": "http://indianexpress.com/article/cities/delhi/aap-disqualification-plea-delhi-hc-quashes-presidential-notification-asks-ec-to-review-its-order-5108600/",
+        "urlToImage": "http://images.indianexpress.com/2017/11/arvind-759.jpg?w=759",
+        "publishedAt": "2018-03-23T09:02:21+00:00"
+    },
+    {
+        "source": {
+            "id": "google-news-in",
+            "name": "Google News (India)"
+        },
+        "author": "PTI",
+        "title": "INX Media case: Karti Chidambaram granted bail by Delhi High Court",
+        "description": "Karti's counsel had argued that no case under the Prevention of Corruption Act was made out against him since the Central Bureau of Investigation (CBI) had neither questioned any public servant, nor made them an accused in the matter.",
+        "url": "http://indianexpress.com/article/india/inx-media-case-karti-chidambaram-granted-bail-by-delhi-hc-5108597/",
+        "urlToImage": "http://images.indianexpress.com/2018/01/karti-c-759.jpg?w=759",
+        "publishedAt": "2018-03-23T09:00:12+00:00"
+    },
+    {
+        "source": {
+            "id": "google-news-in",
+            "name": "Google News (India)"
+        },
+        "author": null,
+        "title": "John Bolton, Donald Trump's pick as national security advisor, is undiplomatic even by White House standards - Firstpost",
+        "description": "There is more churn at the White House, with US president Donald Trump showing his National Security Advisor HR McMaster the door, and replacing him with John Bolton",
+        "url": "http://www.firstpost.com/world/john-bolton-donald-trumps-pick-as-national-security-advisor-is-undiplomatic-even-by-white-house-standards-4402361.html",
+        "urlToImage": "https://images.firstpost.com/wp-content/uploads/2018/03/John-Bolton_AP1.jpg",
+        "publishedAt": "2018-03-23T08:52:55+00:00"
+    },
+    {
+        "source": {
+            "id": "google-news-in",
+            "name": "Google News (India)"
+        },
+        "author": "Virat A Singh",
+        "title": "Mangrove Cell clears confusion; says Olive Ridley did nest in Versova beach after eggshells discovered",
+        "description": "Officials from Maharashtra’s Mangrove Cell on Friday discovered several hatched and unhatched eggshells that belonged to the Olive Ridley Turtle that laid eggs at Mumbai’s Versova beach.",
+        "url": "http://www.dnaindia.com/india/report-mangrove-cell-clears-confusion-says-olive-ridley-did-nest-in-versova-beach-after-eggshells-discovered-2596841",
+        "urlToImage": "http://cdn.dnaindia.com/sites/default/files/styles/half/public/2018/03/23/663893-whatsapp-image-2018-03-23-at-13.30.20.jpeg",
+        "publishedAt": "2018-03-23T08:48:25+00:00"
+    },
+    {
+        "source": {
+            "id": "google-news-in",
+            "name": "Google News (India)"
+        },
+        "author": "Zee Media Bureau",
+        "title": "Veteran Bollywood star alleges she was raped, businessman arrested in Mumbai",
+        "description": "She had filed a complaint at the Juhu Police Station in Mumbai.",
+        "url": "http://zeenews.india.com/mumbai/veteran-bollywood-star-alleges-she-was-raped-businessman-arrested-2092925.html",
+        "urlToImage": "http://ste.india.com/sites/default/files/2018/03/23/671110-rape-complaint.jpg",
+        "publishedAt": "2018-03-23T07:09:56+00:00"
+    },
+    {
+        "source": {
+            "id": "google-news-in",
+            "name": "Google News (India)"
+        },
+        "author": null,
+        "title": "Weakness in market may continue but top 10 stocks can give up to 50% return",
+        "description": "According to experts, the volatility is here to stay for some more time and another 4-5 per cent correction can't be ruled out.",
+        "url": "https://www.moneycontrol.com/news/business/markets/weakness-in-market-may-continue-but-top-10-stocks-can-give-up-to-50-return-2534703.html",
+        "urlToImage": "https://static-news.moneycontrol.com/static-mcnews/2017/07/Planning-to-invest-in-Mutual-funds_01-770x433.jpg",
+        "publishedAt": "2018-03-23T07:05:08+00:00"
+    },
+    {
+        "source": {
+            "id": "google-news-in",
+            "name": "Google News (India)"
+        },
+        "author": null,
+        "title": "UP woman tied up, thrashed on panchayat’s order; molested - Times of India",
+        "description": "MEERUT: In a shocking video that has gone viral, a man is seen thrashing his 25-year-old wife mercilessly after a panchayat verdict allowed him to do .",
+        "url": "https://timesofindia.indiatimes.com/city/meerut/panchayat-asks-husband-to-brutally-thrash-woman-who-eloped-with-lover/articleshow/63420434.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-63423974,width-1070,height-580,imgsize-1380268,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2018-03-23T03:20:33+00:00"
+    },
+    {
+        "source": {
+            "id": "google-news-in",
+            "name": "Google News (India)"
+        },
+        "author": null,
+        "title": "ICC World Cup Qualifiers 2018 - Super Sixes Match 9 - Ireland v Afghanistan - Preview",
+        "description": "The victory of United Arab Emirates over Zimbabwe has given a lifeline to both Ireland and Afghanistan with the winner in the final game of the round in Harare having all to play for as they will",
+        "url": "http://www.cricketworld.com/icc-world-cup-qualifiers-2018-super-sixes-match-9-ireland-v-afghanistan-preview/50547.htm",
+        "urlToImage": "http://www.cricketworld.com/media/img/a/c/056082.jpg",
+        "publishedAt": "2018-03-23T03:11:29+00:00"
+    },
+    {
+        "source": {
+            "id": "google-news-in",
+            "name": "Google News (India)"
+        },
+        "author": "Devina Sengupta",
+        "title": "Vodafone Group and Aditya Birla Group announce leadership team",
+        "description": "Balesh Sharma was named the CEO of merged entity of Idea Cellular and Vodafone India. Shama till now was the chief operating officer COO of Vodafone India.",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/vodafone-group-and-aditya-birla-group-announce-leadership-team/articleshow/63417132.cms",
+        "urlToImage": "https://img.etimg.com/thumb/msid-63419934,width-672,resizemode-4,imgsize-36983/vodafone-group-and-aditya-birla-group-announce-leadership-team.jpg",
+        "publishedAt": "2018-03-22T17:02:00+00:00"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "US approves proposed $1bn arms sale to Saudi Arabia",
+        "description": "US State Department approves the arms sale, despite concerns raised by rights groups that it might be used in Yemen.",
+        "url": "http://www.aljazeera.com/news/2018/03/approves-proposed-1bn-arms-sale-saudi-arabia-180323090745361.html",
+        "urlToImage": "https://www.aljazeera.com/mritems/Images/2018/3/23/9da0109bd41340ea8e3655855904249e_18.jpg",
+        "publishedAt": "2018-03-23T10:25:00Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "Trump replaces National Security Advisor McMaster with Bolton",
+        "description": "Former US ambassador to the UN, who advocated military strikes in North Korea and Iran, replaces Lt Gen HR McMaster.",
+        "url": "http://www.aljazeera.com/news/2018/03/trump-replaces-national-security-advisor-mcmaster-bolton-180323051535636.html",
+        "urlToImage": "https://www.aljazeera.com/mritems/Images/2018/3/23/648ba6bd5af34c57a20710fa26f22b53_18.jpg",
+        "publishedAt": "2018-03-23T07:33:00Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "Report: Western states aided Egypt's military power consolidation",
+        "description": "Defence monitor report says Egypt's military has received Western security aid without 'meaningful transparency'.",
+        "url": "http://www.aljazeera.com/news/2018/03/report-western-states-aided-egypt-military-power-consolidation-180322170129380.html",
+        "urlToImage": "https://www.aljazeera.com/mritems/Images/2018/3/22/d85b482b1433472f9bce73819c052402_18.jpg",
+        "publishedAt": "2018-03-23T06:04:00Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "UAE-backed militia deports Yemenis from southern Yemen",
+        "description": "'Northerners' have been driven from Aden city, videos and documents sent to Al Jazeera show.",
+        "url": "http://www.aljazeera.com/news/2018/03/uae-backed-militia-deports-yemenis-southern-yemen-180322142103465.html",
+        "urlToImage": "https://www.aljazeera.com/mritems/Images/2018/3/22/6ca978336bbc4719bb2bf135fd29539e_18.jpg",
+        "publishedAt": "2018-03-23T06:00:00Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": null,
+        "title": "Are Saudi Arabia and UAE buying influence in the White House?",
+        "description": null,
+        "url": "http://www.aljazeera.com/programmes/insidestory/2018/03/saudi-arabia-uae-buying-influence-white-house-180322170434804.html",
+        "urlToImage": null,
+        "publishedAt": "2018-03-22T19:52:02.9430556Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Fouad Diab",
+        "title": "Will Saif al-Islam Gaddafi run in Libyan elections?",
+        "description": "The announcement that Saif al-Islam is planning to run for president has prompted mixed reactions within Libya.",
+        "url": "http://www.aljazeera.com/news/2018/03/saif-al-islam-gaddafi-run-libyan-elections-180322134813539.html",
+        "urlToImage": "https://www.aljazeera.com/mritems/Images/2012/5/9/20125911451661734_20.jpg",
+        "publishedAt": "2018-03-22T17:18:00Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Nanjala Nyabola",
+        "title": "Politics in the digital age: Cambridge Analytica in Kenya",
+        "description": "For CA, the Kenyan election was a revenue stream. For Kenyans, it was life or death. Shouldn't some things be sacred?",
+        "url": "http://www.aljazeera.com/indepth/opinion/politics-digital-age-cambridge-analytica-kenya-180322123648852.html",
+        "urlToImage": "https://www.aljazeera.com/mritems/Images/2018/3/22/bb4a065a451946ad8379274e2447ec6d_18.jpg",
+        "publishedAt": "2018-03-22T16:36:00Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Faras Ghani",
+        "title": "North Korean defector: 'If you have money, you can do anything'",
+        "description": "In part four of the series on North Korean defectors, Um Yae-run sheds light on how brokers work in the country.",
+        "url": "http://www.aljazeera.com/indepth/features/north-korean-defector-money-180221095139644.html",
+        "urlToImage": "https://www.aljazeera.com/mritems/Images/2018/2/19/26d30492001c426bb951418eb47b46a1_18.jpg",
+        "publishedAt": "2018-03-22T10:09:00Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Lena Afridi",
+        "title": "Trickle down elitism does not help the working class",
+        "description": "The 'elites' in America need to claim responsibility for the role they played in the creation of an unjust society.",
+        "url": "http://www.aljazeera.com/indepth/opinion/trickle-elitism-working-class-180320123323326.html",
+        "urlToImage": "https://www.aljazeera.com/mritems/Images/2018/3/20/82801b11d998421791f89c23b7c9a130_18.jpg",
+        "publishedAt": "2018-03-20T15:58:00Z"
+    },
+    {
+        "source": {
+            "id": "al-jazeera-english",
+            "name": "Al Jazeera English"
+        },
+        "author": "Al Jazeera",
+        "title": "'You're fired': A recap of official turnover under Trump",
+        "description": "After Tillerson's dismissal on Tuesday, Al Jazeera looks at other departures under the Trump administration.",
+        "url": "http://www.aljazeera.com/news/2018/03/fired-recap-official-turnover-trump-180313160447342.html",
+        "urlToImage": "https://www.aljazeera.com/mritems/Images/2018/3/13/2fe1eed7492640aeb7dc0f62d0cc6360_18.jpg",
+        "publishedAt": "2018-03-13T21:02:00Z"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": "Fox News",
+        "title": "Asia allies split on Bolton's potential impact on US-North Korea talks",
+        "description": "The appointment of John Bolton as President Donald Trump’s next national security adviser has prompted mixed reactions in Asia on Friday amid his hawkish \"striking first\" foreign policy views.",
+        "url": "http://www.foxnews.com/politics/2018/03/23/asia-allies-fear-boltons-hawkish-views-could-derail-us-north-korea-summit.html",
+        "urlToImage": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/03/22/0/0/694940094001_5756679096001_5756667739001-vs.jpg?ve=1",
+        "publishedAt": "2018-03-23T08:45:00+00:00"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": "Fox News",
+        "title": "Time magazine leaves Second Amendment supporters off Parkland cover",
+        "description": "The cover of Time magazine this week features five anti-gun survivors of the Parkland, Fla., high school massacre, but has drawn criticism for pointedly omitting their pro-Second Amendment classmates.",
+        "url": "http://www.foxnews.com/politics/2018/03/23/time-magazine-leaves-second-amendment-supporters-off-parkland-cover.html",
+        "urlToImage": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/03/09/0/0/694940094001_5748286818001_5748266721001-vs.jpg?ve=1",
+        "publishedAt": "2018-03-23T07:00:00+00:00"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": "Fox News",
+        "title": "NYC firefighter dies battling blaze on set of Bruce Willis, Edward Norton film 'Motherless Brooklyn'",
+        "description": "One New York City firefighter has died and another has been seriously injured battling a blaze that broke out late Thursday on a film set in upper Manhattan, authorities said.",
+        "url": "http://www.foxnews.com/us/2018/03/23/nyc-firefighter-dies-battling-blaze-on-set-bruce-willis-edward-norton-film-motherless-brooklyn.html",
+        "urlToImage": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/us/2018/03/23/nyc-firefighter-dies-battling-blaze-on-set-bruce-willis-edward-norton-film-motherless-brooklyn/_jcr_content/par/featured_image/media-0.img.png/0/0/1521788299358.png?ve=1",
+        "publishedAt": "2018-03-23T07:00:00+00:00"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": "Fox News",
+        "title": "States take on welfare reform -- with nod from Trump",
+        "description": "Republicans nationwide are taking a swing at reforming welfare, with the latest initiative approved by the Missouri House last week.",
+        "url": "http://www.foxnews.com/politics/2018/03/23/states-take-on-welfare-reform-with-nod-from-trump.html",
+        "urlToImage": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2018/03/23/states-take-on-welfare-reform-with-nod-from-trump/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1521782936489.jpg?ve=1",
+        "publishedAt": "2018-03-23T05:45:00+00:00"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": "Fox News",
+        "title": "Senate passes $1.3 trillion spending bill, averting another government shutdown",
+        "description": "In a vote just after midnight Friday, the Senate voted to pass a $1.3 trillion omnibus spending bill, averting a government shutdown while paving the way for the next funding fight ahead of the midterm elections.",
+        "url": "http://www.foxnews.com/politics/2018/03/23/senate-passes-1-3-trillion-spending-bill-averting-another-government-shutdown.html",
+        "urlToImage": "http://a57.foxnews.com/images.foxnews.com/content/fox-news/politics/2018/03/23/senate-passes-1-3-trillion-spending-bill-averting-another-government-shutdown/_jcr_content/par/featured_image/media-0.img.jpg/0/0/1521782535536.jpg?ve=1",
+        "publishedAt": "2018-03-23T04:47:00+00:00"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": "Fox News",
+        "title": "Disturbing footage: Video from Las Vegas shooter’s final days",
+        "description": "The Las Vegas shooter’s final days were caught on surveillance tape. The chilling video shows him loading in guns, eating alone and interacting with staff.",
+        "url": "http://video.foxnews.com/v/5756492296001/",
+        "urlToImage": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/03/22/640/360/694940094001_5756497418001_5756492296001-vs.jpg",
+        "publishedAt": "2018-03-23T00:30:06.1644401Z"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": "Fox News",
+        "title": "Neighbors of the Austin bombing suspect speak out",
+        "description": "What turned the 23-year-old into a serial bomber? Longtime neighbors of Conditt family Nancy and Jeff Reeb join 'The Story' with exclusive insight from Austin, Texas.",
+        "url": "http://video.foxnews.com/v/5756637461001/",
+        "urlToImage": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/03/22/640/360/694940094001_5756656625001_5756637461001-vs.jpg",
+        "publishedAt": "2018-03-23T00:07:44.4947125Z"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": "Fox News",
+        "title": "Stocks drop as Trump hits China with new tariffs",
+        "description": "Manufacturing industry stocks see significant drops as Trump takes aim at China through tariffs; Deirdre Bolton shares details about how the markets are responding to Trump's policies.",
+        "url": "http://video.foxnews.com/v/5756478112001/",
+        "urlToImage": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/03/22/640/360/694940094001_5756491399001_5756478112001-vs.jpg",
+        "publishedAt": "2018-03-22T20:38:04.5736625Z"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": "Fox News",
+        "title": "Daniel Henninger unsurprised by John Dowd's resignation",
+        "description": "Just days after calling for the Mueller probe to end, John Dowd has resigned as President Trump's lead lawyer in special counsel inquiry; reaction from the Wall Street Journal's Daniel Henninger.",
+        "url": "http://video.foxnews.com/v/5756425110001/",
+        "urlToImage": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/03/22/640/360/694940094001_5756428037001_5756425110001-vs.jpg",
+        "publishedAt": "2018-03-22T20:22:43.609727Z"
+    },
+    {
+        "source": {
+            "id": "fox-news",
+            "name": "Fox News"
+        },
+        "author": "Fox News",
+        "title": "Kurtz: Cable news didn’t make Trump president",
+        "description": "'MediaBuzz' host Howard Kurtz weighs in on argument in the New York Times that Donald Trump won the presidency because of over-exposure on cable news channels.",
+        "url": "http://video.foxnews.com/v/5756475523001/",
+        "urlToImage": "http://a57.foxnews.com/media2.foxnews.com/BrightCove/694940094001/2018/03/22/640/360/694940094001_5756485017001_5756475523001-vs.jpg",
+        "publishedAt": "2018-03-22T20:07:48.4913963Z"
+    }
+]
